@@ -57,5 +57,5 @@ jobs:
                 echo "===smoke test report==="
                 cat smoke-test-report.txt
                 echo " "
-                echo "====container logs====""
+                echo "====container logs===="
                 cat container-logs.txt
