@@ -1,4 +1,4 @@
-name: 01 - Matrix Strategy Demo
+name: 03 - Matrix Strategy Demo
 
 on:
   workflow_dispatch:
